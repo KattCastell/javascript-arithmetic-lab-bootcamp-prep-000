@@ -1,9 +1,5 @@
-var number = 10
-
-function add5() {
-  number += 5
+function add() {
+  var a = 4
+  var b = 3 
 }
-
-function divideBy3() {
-  number /= 3
-}
+add(a, b)
