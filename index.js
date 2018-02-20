@@ -26,8 +26,12 @@ function makeInt(n) {
   return parseInt('n', 10);
 }
 
+function makeInt(n) {
+  return parseInt('snjfirea')
+}
+
 function preserveDecimal(n) {
-  return parseFloat('2.2222')
+  return parseFloat('2.222')
 }
 
  function preserveDecimal(n) {
